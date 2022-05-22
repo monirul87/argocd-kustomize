@@ -8,6 +8,6 @@ patchesStrategicMerge:
 images:
 - name: gitops-argocd
   newName: /gitops-argocd
-  newTag: 9fd15ff59cf7fda48790a0dfe4347fd44e3dca46
+  newTag: 77e1bbd1e85bf0d066325da4c88f6f3657d530d9
 resources:
 - ../../base
