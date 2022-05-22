@@ -18,7 +18,7 @@ spec:
       containers:
       - name: gitops-argocd
         #image: gitops-argocd:REPLACEME
-        image: monirul87/gitops-argocd
+        image: monirul87/gitops-argocd:9fd15ff59cf7fda48790a0dfe4347fd44e3dca46
         ports:
         - containerPort: 8080
         livenessProbe:
